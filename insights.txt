@@ -1,0 +1,8 @@
+Q1: Top Customers by Total Revenue
+
+- Customer C017 is the highest revenue-generating customer with a total revenue of 17,700.
+- Customer C005 is the lowest among the top 5, with a revenue of 16,500.
+- The revenue difference between the top and lowest customer in the top 5 is relatively small.
+- This indicates that multiple customers contribute significantly to revenue rather than a single dominant customer.
+- The business should focus on retaining these high-value customers through loyalty programs and targeted offers to maximize long term
+revenue.
